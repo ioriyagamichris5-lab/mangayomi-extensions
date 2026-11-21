@@ -16,7 +16,7 @@ const mangayomiSources = [{
 // Things that could NOT be verified from rendered pages. Change here if needed.
 // ---------------------------------------------------------------------------
 // Query-string key the site's search box uses (check the URL after you search).
-const SEARCH_PARAM = "keyword";
+const SEARCH_PARAM = "q";
 const UA = "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36";
 
 class DefaultExtension extends MProvider {
