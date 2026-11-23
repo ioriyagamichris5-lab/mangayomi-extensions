@@ -19,4 +19,25 @@
   "additionalParams": "",
   "sourceCodeLanguage": 1,
   "notes": ""
+},{
+  "name": "Lunar",
+  "id": 1734921700,
+  "baseUrl": "https://lunarx.to",
+  "lang": "en",
+  "typeSource": "single",
+  "iconUrl": "https://www.google.com/s2/favicons?sz=256&domain=lunarx.to",
+  "dateFormat": "",
+  "dateFormatLocale": "",
+  "isNsfw": true,
+  "hasCloudflare": false,
+  "sourceCodeUrl": "https://raw.githubusercontent.com/ioriyagamichris5-lab/mangayomi-extensions/main/javascript/anime/src/en/lunarx.js",
+  "apiUrl": "",
+  "version": "0.0.1",
+  "isManga": false,
+  "itemType": 1,
+  "isFullData": false,
+  "appMinVerReq": "0.5.0",
+  "additionalParams": "",
+  "sourceCodeLanguage": 1,
+  "notes": ""
 }]
